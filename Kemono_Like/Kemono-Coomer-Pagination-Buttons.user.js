@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Kemono/Coomer Pagination Buttons
-// @namespace    http://tampermonkey.net/
-// @version      1.0
-// @description  Adds fixed pagination buttons to navigate through posts on Kemono and Coomer websites, adjusting for sidebar visibility.
+// @namespace    https://github.com/scriptfor/user-scripts
+// @version      v1.0001
+// @description  Adds pagination buttons '<' (on the left) and '>' (on the right) to the page, allowing for quick page changes. It is also an alternative to a bug that causes pagination to disappear due to blacklisting.
 // @author       scriptfor
 // @match        https://kemono.su/posts*
 // @match        https://coomer.su/posts*
