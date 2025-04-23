@@ -7,8 +7,8 @@
 // @match        https://kemono.su/posts*
 // @match        https://coomer.su/posts*
 // @match        https://nekohouse.su/*
-// @updateURL    https://github.com/scriptfor/Kemono-Coomer-Pagination-Buttons/raw/main/Kemono-Coomer-Pagination-Buttons.user.js
-// @downloadURL  https://github.com/scriptfor/Kemono-Coomer-Pagination-Buttons/raw/main/Kemono-Coomer-Pagination-Buttons.user.js
+// @updateURL    https://github.com/scriptfor/user-script/raw/main/Kemono-Coomer-Pagination-Buttons.user.js
+// @downloadURL  https://github.com/scriptfor/user-script/raw/main/Kemono-Coomer-Pagination-Buttons.user.js
 // @icon         https://icons.duckduckgo.com/ip2/coomer.su.ico
 // @grant        none
 // ==/UserScript==
