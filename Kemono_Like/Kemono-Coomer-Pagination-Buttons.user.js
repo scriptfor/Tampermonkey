@@ -3,13 +3,13 @@
 // @namespace    http://tampermonkey.net
 // @version      1.0.1
 // @description  Adds pagination buttons '<' (on the left) and '>' (on the right) to the page, allowing for quick page changes. It is also an alternative to a bug that causes pagination to disappear due to blacklisting.
-// @author       scriptfor
 // @match        https://kemono.su/posts*
 // @match        https://coomer.su/posts*
 // @match        https://nekohouse.su/*
-// @homepageURL  https://gist.githubusercontent.com/scriptfor
-// @updateURL    https://gist.githubusercontent.com/scriptfor/d5449bae83801972b6d553899cca4606/raw
-// @downloadURL  https://gist.githubusercontent.com/scriptfor/d5449bae83801972b6d553899cca4606/raw
+// @author       scriptfor
+// @homepageURL  https://github.com/scriptfor
+// @updateURL    https://github.com/scriptfor/user-scripts/raw/refs/heads/main/Kemono_Like/Kemono-Coomer-Pagination-Buttons.user.js
+// @downloadURL  https://github.com/scriptfor/user-scripts/raw/refs/heads/main/Kemono_Like/Kemono-Coomer-Pagination-Buttons.user.js
 // @icon         https://icons.duckduckgo.com/ip2/coomer.su.ico
 // @grant        none
 // ==/UserScript==
