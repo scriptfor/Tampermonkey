@@ -3,9 +3,9 @@
 // @namespace    http://tampermonkey.net
 // @version      2025-04-24_01-06
 // @description  Adds pagination buttons '<' (on the left) and '>' (on the right) to the page, allowing for quick page changes. It also serves as an alternative to a bug that causes pagination to disappear due to blacklisting. This script is compatible with the sites kemono, coomer, and nekohouse.
-// @match        https://kemono.su/posts*
-// @match        https://coomer.su/posts*
-// @match        https://nekohouse.su/*
+// @match        *://*kemono.su/posts*
+// @match        *://*coomer.su/posts*
+// @match        *://*nekohouse.su/*
 // @author       scriptfor
 // @homepageURL  https://github.com/scriptfor
 // @updateURL    https://github.com/scriptfor/-/blob/'/Kemono_Like/Kemono%20Coomer%20Pagination%20Buttons.user.js
