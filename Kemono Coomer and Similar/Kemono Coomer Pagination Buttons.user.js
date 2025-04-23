@@ -8,8 +8,8 @@
 // @match        *://*nekohouse.su/*
 // @author       scriptfor
 // @homepageURL  https://github.com/scriptfor
-// @updateURL    https://github.com/scriptfor/-/raw/refs/heads/'/Kemono_Like/Kemono%20Coomer%20Pagination%20Buttons.meta.js
-// @downloadURL  https://github.com/scriptfor/-/raw/refs/heads/'/Kemono_Like/Kemono%20Coomer%20Pagination%20Buttons.user.js
+// @updateURL    https://github.com/scriptfor/-/blob/'/Kemono%20Coomer%20and%20Similar/Kemono%20Coomer%20Pagination%20Buttons.meta.js
+// @downloadURL  https://github.com/scriptfor/-/blob/'/Kemono%20Coomer%20and%20Similar/Kemono%20Coomer%20Pagination%20Buttons.user.js
 // @icon         https://icons.duckduckgo.com/ip2/coomer.su.ico
 // @license      MIT
 // @grant        none
